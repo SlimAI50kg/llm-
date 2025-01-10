@@ -63,3 +63,32 @@ Ensure the following are installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/SlimAI50kg/llm-.git
+
+---
+
+## 🙏 Acknowledgments
+
+We extend our gratitude to:
+-The open-source community for inspiration and resources.
+-Everyone who has supported and contributed to the SLM project.
+
+---
+
+## 📢 Join Us
+Stay updated or get involved in the SLM journey:
+-Follow us on SlimAI50kg
+-Join our TG Community from X
+-Let’s make AI simple and accessible for everyone!
+
+---
+
+## 🌐 Ethical Disclaimer
+SLM is designed for positive and constructive use. We strongly discourage:
+- Using SLM to generate harmful, hateful, or misleading content.
+- Employing SLM for activities that violate privacy or ethical guidelines.
+- We are committed to fostering responsible AI practices and encourage users to do the same.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
